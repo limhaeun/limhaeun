@@ -1,6 +1,7 @@
-# Hello, I'm Haeun
 
 <div align="center">
+# Hello, I'm Haeun
+
 💻 Teck Stack
 
 ![Java](https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white)

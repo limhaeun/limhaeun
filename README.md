@@ -3,7 +3,7 @@
   
 <div align="center">
   
-  <img src="C:\Users\사용자\Downloads\F3407271-AF21-4A3A-9DA0-B9CB124F9223.jpeg" width="450px" height="300px" alt="myPic"></img><br/>
+  <img src="https://github.com/limhaeun/limhaeun/issues/1#issue-1283167893" width="450px" height="300px" alt="myPic"></img><br/>
   
   💻 Teck Stack
 

@@ -1,7 +1,10 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=300&section=header&text=HI%20there&fontSize=90)
 
-- 🌱 I’m currently learning  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)] 
+💻 Teck Stack
+[![Java](https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)] 
+
 <!--
 **limhaeun/limhaeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=300&section=header&text=Hi%20there&fontSize=90)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=300&section=header&text=Hi%20there&fontSize=90)
+<div align="center">
 💻 Teck Stack
 
 ![Java](https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white)
